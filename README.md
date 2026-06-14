@@ -1,4 +1,4 @@
-# 🤖 DecodeLabs AI Internship Projects
+# DecodeLabs AI Internship Projects
 
 This repo contains the projects I built during my AI internship at DecodeLabs.
 Four projects, each covering a different area of AI and Python development.
