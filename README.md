@@ -34,7 +34,7 @@ matching items using logic and similarity matching. Pure Python, no frameworks.
 
 ---
 
-## Project 4 — Image Recognition (Basic)
+## Project 4 — Image and Text Recognition (Basic)
 
 A web-based image recognition tool built with a pretrained MobileNetV2 model.
 Upload any image and it shows the top predictions with confidence percentages.
