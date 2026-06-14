@@ -1,50 +1,54 @@
-# DecodeLabs AI Internship
+# 🤖 DecodeLabs AI Internship Projects
 
-This repository contains tasks completed during my AI internship at DecodeLabs.
-
----
-
-# Task 1: Rule-Based Chatbot
-
-## Objective
-Create a simple rule-based chatbot using Python.
-
-## Features
-- Handles greetings
-- Handles exit commands
-- Uses if-else logic
-- Runs in a continuous loop
-
-## File
-Project 1_chatbot.py
+This repo contains the projects I built during my AI internship at DecodeLabs.
+Four projects, each covering a different area of AI and Python development.
 
 ---
 
-# Task 2: Basic Classification Model
+## Project 1 — Rule-Based AI Chatbot
 
-## Objective
-Build a classification model using the Iris dataset.
+A simple chatbot that replies to user messages using if-else logic.
+Nothing fancy, but it gets the job done — handles greetings, basic questions,
+and exit commands in a continuous loop.
 
-## Features
-- Loads dataset
-- Splits training/testing data
-- Trains KNN model
-- Shows accuracy
-
-## File
-Project 2_classification.py
+**Skills practiced:** Control flow, decision-making logic, basic AI concepts
 
 ---
 
-# How to Run
+## Project 2 — Data Classification Using AI
 
-Chatbot:
-python "Project 1_chatbot.py"
+Trained a basic classification model on a small dataset.
+Covers the full pipeline — loading data, splitting into train/test sets,
+applying a classification algorithm, and evaluating results.
 
-ML Model:
-python "Project 2_classification.py"
+**Skills practiced:** Data handling, supervised learning, model training
 
 ---
 
-# Author
-Anosh
+## Project 3 — AI Recommendation Logic
+
+A recommendation system that takes user preferences as input and suggests
+matching items using logic and similarity matching. Pure Python, no frameworks.
+
+**Skills practiced:** Logic building, pattern matching, recommendation concepts
+
+---
+
+## Project 4 — Image Recognition (Basic)
+
+A web-based image recognition tool built with a pretrained MobileNetV2 model.
+Upload any image and it shows the top predictions with confidence percentages.
+
+**Skills practiced:** AI libraries, pretrained models, understanding model outputs
+
+---
+
+## Tech Stack
+
+- Python
+- PyTorch / Torchvision
+- HTML, CSS, JavaScript (Project 4)
+
+---
+
+*Built during AI Internship with DecodeLabs*
